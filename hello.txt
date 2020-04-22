@@ -1,3 +1,10 @@
 public class hello
 
 hello world
+<<<<<<< HEAD
+=======
+
+1111111111
+
+1801a jie dian 
+>>>>>>> 1801a
